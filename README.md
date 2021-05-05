@@ -4,6 +4,7 @@
 
 * Matjaz Zaversnik
 * Matija Pretnar
+* Sonja Ursic
 
 ## Kratek opis
 
