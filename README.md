@@ -4,6 +4,7 @@
 
 * Matjaz Zaversnik
 * Matija Pretnar
+* Anton Pletersek
 
 ## Kratek opis
 
